@@ -3,4 +3,4 @@ NO other install module.
 
 If aapanel server no working,
 Download aapanel.rar file to you server and unzip
-Then try to edit install-en.sh files.Modify download url to your server ip
+Then edit install-en.sh files. Modify download url to your server ip and use command "bash install.sh" to install
